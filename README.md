@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Kalaugus
-- 👀 I’m interested in ...Almost everything
-- 🌱 I’m currently learning ... JS
-- 💞️ I’m looking to collaborate on ...Anything just need to use what i think i know
-- 📫 How to reach me ...kalaugus@gmail.com
+# Hi, I'm Jose 👋
 
-<!---
-Kalaugus/Kalaugus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Support Engineer by day, web developer by night.
+
+I work in warehouse automation, troubleshooting the software, SQL Server
+databases, and PLC systems that keep distribution centers running. On my
+own time I build web apps and I'm working toward a career in software
+engineering.
+
+### What I work with
+**Web:** JavaScript · React · Node.js · Express · PostgreSQL · HTML/CSS  
+**Data:** Microsoft SQL Server · T-SQL · stored procedures  
+**Automation:** PLCs (Rockwell Studio 5000) · Warehouse Control Systems · TCP/IP
+
+### Currently building
+🛒 **[pern-ecom2](https://github.com/Kalaugus/pern-ecom2):** a full-stack
+e-commerce app with PostgreSQL, Express, React, and Node.js
+
+### Find me
+[LinkedIn](https://www.linkedin.com/in/jose-magana-aa855b16a) · kalaugus@gmail.com
