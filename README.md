@@ -17,4 +17,4 @@ engineering.
 e-commerce app with PostgreSQL, Express, React, and Node.js
 
 ### Find me
-[LinkedIn](https://www.linkedin.com/in/jose-magana-aa855b16a) · kalaugus@gmail.com
+[LinkedIn](https://www.linkedin.com/in/josemagana-dev) · kalaugus@gmail.com
